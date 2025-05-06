@@ -10,7 +10,7 @@ R_m = 0.07
 tau = 0.025
 
 #HOW IS MY FRONT END GOING TO HANDLE INVESTOR VIEWS?
-def picking_matrix(views):
+def picking_matrix(type, tickers, views):
     return 
 
 #tau, maybe can use some other uncertainty views coefficient ? 
